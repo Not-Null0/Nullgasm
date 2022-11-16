@@ -1,0 +1,3 @@
+- Hi my name is Joey
+- Im a novice software devoloper, fruture White Hat hacker/Pentester
+- Im not the best nor will I clame be
